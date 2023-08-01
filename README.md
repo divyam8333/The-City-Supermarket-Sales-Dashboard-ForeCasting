@@ -15,4 +15,4 @@ The objective can be broken down into the following detailed components:
 
 CONCLUSION-
 
-Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
+Incorporated data analysis techniques specializing in time series analysis to provide valuable insights, accurate sales forecasting and interactive dashboard creation that drive business success.
